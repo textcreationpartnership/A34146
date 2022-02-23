@@ -1,0 +1,3055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect list of the several persons residenters in Scotland, who have subscribed as adventurers in the joynt-stock of the Company of Scotland Trading to Africa and the Indies together with the respective sums which they have severally subscribed in the books of the said company, amounting in the whole to the sum of 400000 lib. sterling.</title>
+            <author>Company of Scotland Trading to Africa and the Indies.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34146</idno>
+            <idno type="STC">Wing C5599</idno>
+            <idno type="STC">ESTC R41896</idno>
+            <idno type="EEBO-CITATION">19719837</idno>
+            <idno type="OCLC">ocm 19719837</idno>
+            <idno type="VID">109331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect list of the several persons residenters in Scotland, who have subscribed as adventurers in the joynt-stock of the Company of Scotland Trading to Africa and the Indies together with the respective sums which they have severally subscribed in the books of the said company, amounting in the whole to the sum of 400000 lib. sterling.</title>
+                  <author>Company of Scotland Trading to Africa and the Indies.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109331:1" rendition="simple:additions"/>
+            <p>LIST Of the ſeveral Perſons <hi>RESIDENTERS</hi> in SCOTLAND, Who have Subſcribed as ADVENTURERS IN THE JOYNT-STOCK OF THE <hi>Company of Scotland</hi> Trading to <hi>Africa</hi> and the <hi>Indies.</hi>
+            </p>
+            <p>TOGETHER With the reſpective SUMS which they have ſeverally Subſcribed in the BOOKS of the ſaid <hi>COMPANY,</hi> Amounting in the Whole to the SUM of 400000 <hi>lib. Sterling.</hi>
+            </p>
+            <figure>
+               <figDesc>seal of the Company of Scotland Trading to Africa and the Indies</figDesc>
+               <q>QUA PANDITUR ORBIS VIS UNITA FORTIOR</q>
+            </figure>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed and Sold by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb facs="tcp:109331:2"/>
+            <pb facs="tcp:109331:2"/>
+            <head>A LIST, &amp;c.</head>
+            <list>
+               <item>
+                  <label>A.</label>
+                  <list>
+                     <item>WIlliam Arbuckle Merchant in <hi>Glaſgow</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Earl of ARGYLE 1500 <hi>lib.</hi>
+                     </item>
+                     <item>Michael Allan Merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Earl of ANNANDALE 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Areskine Governour of <hi>Black<g ref="char:EOLhyphen"/>neſs</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>The FACULTY OF ADVOCATS 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Patrick Aikenhead Commiſſary-Clerk of <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Anderſon of <hi>Dovehill</hi> and Provoſt of <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>James Auchinleck Chirurgion-Apothecary in <hi>Edinburgh</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Marquis of ATHOL 500 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Anſtruther of <hi>New-wark</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Ainſlie of <hi>Blackhill</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Walter Atchiſon of <hi>Ruchſolloch</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Anſtruther of <hi>Anſtruther</hi> one of the Senators of the Colledge of Juſtice 400 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Alexander Anderſon in Sir John Hills Regiment 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Areskine of <hi>Alva</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Abercrombie of <hi>Birkenbog</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Captain John Areskine Brother to the Laird of <hi>Alva</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Lady <hi>Alva</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Anſtruther of <hi>Wrea</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Allan of <hi>Sauchnell</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>John Allardes younger Merchant in <hi>Aberdeen</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Aikman of <hi>Cairny</hi> Advocat 200 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Areskine of <hi>Cambo</hi> Lyon King at Arms 200 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Aitoun of that <hi>Ilk</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF AIR 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Alexander of <hi>Blackhouſe</hi> for himſelf and Lady <hi>Grange</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Veronica Areskine Daughter to the de<g ref="char:EOLhyphen"/>ceas'd David Lord CARDROSS 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Anderſon Son to Baillie Anderſon 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Alves Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Angus Brewer there 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Adam Merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Armour Taylor there 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Alexander Merchant in <hi>Glaſgow</hi> 125 <hi>lib.</hi>
+                     </item>
+                     <item>Penelope Areskine Siſter to <hi>Cambo</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Aikman Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Claud Alexander of <hi>Newton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Matthew Atcheſon Merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Aird Dean of Guild there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Anderſon <hi>junior</hi> Merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 17825</item>
+                     <item>
+                        <hi>Tranſported from</hi> A. — 17825</item>
+                     <item>John Allan Merchant in <hi>Hamilton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Adam <hi>ſenior</hi> merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Adam Taylor there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Arthur Taylor in <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Alſtoun Shoe-maker in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Auchterlony Indweller in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Arnot Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Abercrombie Skipper there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Aliſon late Baillie there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Anderſon merchant in <hi>Haddington</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Colin Aliſon <hi>Sub-Collector of His Majeſties Exciſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Allan Taylor in <hi>Stirling</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Archibald Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Allan Portioner of <hi>Dudingſton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Anderſon Son to Mr. John Ander<g ref="char:EOLhyphen"/>ſon Miniſter at <hi>Leſlie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Gabriel Aliſon of <hi>Dunjop</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Adamſon Daughter to the deceas'd Patrick Adamſon merchant in <hi>Kelſo</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Arbuthnet Servit. to E. MARSHALL 100 <hi>lib.</hi>
+                     </item>
+                     <item>Michael Andeiſon of <hi>Tuſhallaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Jean Arthur Daughter to John Arthur of <hi>Newton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF SAINT-ANDREWS. 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>B.</label>
+                  <list>
+                     <item>JOhn Lord BELHAVEN 3000 <hi>lib.</hi>
+                     </item>
+                     <item>The ROYAL BURROWS 3000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Blackwood Merchant in <hi>Edinb.</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>James Balfour Merchant there 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Thomas Burnet of <hi>Lees</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Baillie of <hi>Lamington</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>George Billie of <hi>Jerviſwood</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Brand Merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Baillie Chyrurgion there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Blackwood Merchant there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Baird Merchant there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>James Byers Merchant there 700 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF BRICHEN 700 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Maſter of BURLEIGH 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Baird of <hi>Newbyth</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Bruce of <hi>Kinroſs</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Baird younger of <hi>Newbyth</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Binning of <hi>Waliford</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Biggar of <hi>Woolmot</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant Colonel James Bruce of <hi>Kennet</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Blair Merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Burnet Merchant in <hi>Aberdeen</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Broun Skipper in <hi>Leith</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Lady <hi>Borthwick</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Baxter Taylor in <hi>Glaſgow</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 44025</item>
+                     <gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb facs="tcp:109331:3"/>
+                     <item>William Bennet younger of <hi>Grubbet</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>John Bowman Merchant in <hi>Glaſgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>William Bonteine Son to Nicol Bonteine of <hi>Ardoch</hi> Merchant in <hi>Glaſgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Blackwood Son to Mr. Robert Black<g ref="char:EOLhyphen"/>wood Merchant in <hi>Edinburgh</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Broun <hi>ſenior</hi> Chyrurgion in <hi>Edinb.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Edward Broun Merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Barclay Chyrurgion in <hi>Cowper</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Baillie of <hi>Woodſide</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Broune of <hi>New-hall</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Blair Dean of Guild of <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Bethune of <hi>Tarbat</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Balnevis of <hi>Glencarſs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Broun of <hi>Thornydykes</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Bannerman Brother to <hi>Elſik</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Baillie of <hi>Parbroth</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Broun of <hi>Dolphingtoun</hi> Doctor of Medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Burd Merchant m <hi>Stirling</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Bonar Clerk to the <hi>Mint</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Edward Burd Commander of His Majeſties Ship <hi>The Royal WILLIAM</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Baxter merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Baillie merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the Baxters in <hi>Edinb.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the Baxters of <hi>Glaſg.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Broun merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Broun Son to Hugh Broun <hi>ſenior</hi> Chyrurgion Apothecary there 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Barber merchant in <hi>Inverneſs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Ballingall Malt-man in <hi>Strathmiglo</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>James Barber merchant in <hi>Inverneſs</hi> 140 <hi>lib.</hi>
+                     </item>
+                     <item>William Bryſon late Baillie of <hi>Dunbar</hi> 120 <hi>lib.</hi>
+                     </item>
+                     <item>John Bowie merchant in <hi>Falkirk</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Brodie of <hi>Aslisk</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Bruce in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Bucknay merchant in <hi>Linlithgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Burnet Brother-german to Mr. Thomas Burnet of <hi>Kimnay</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Broun Miniſter of the united Churches <hi>Lundie</hi> and <hi>Foulis</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Brown Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Baillie of <hi>Montoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Francis Baillie his Brother-german 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Boyd of <hi>Pitcon</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Boyd of <hi>Trochrig</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Burton Glaſier in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Baird Merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Borland merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Brown Litſter in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Brabner merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Elizabeth Brisbane Daugh. to <hi>Biſhoptoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Blair Writer in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Boſwel of <hi>Balbartoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Black Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Bruce of <hi>Wester-Kinloch</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Baillie Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Balfour of <hi>Denbuge</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Baillie merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Cary forward</hi> — 52735</item>
+                     <item>Beſſie Bogle Relict of Robert Bogle mer<g ref="char:EOLhyphen"/>chant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Buchanan merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Barclay merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Blackburn merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Buchanan merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Chriſtian Boyd, Relict of Peter Gemmil merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ballantine merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ballantine of <hi>Craigmuire</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Boyd Chyrurgion-Apothecary in <hi>Glaſ.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Buntine Peutherer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Buchanan Malt-man there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Bryce Malt-man there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Katharine Binning Lady <hi>Bavelaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Cap. Jo. Blackadder in Col. <hi>Ferguſon</hi> 's Reg. 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Baillie Apothecary in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Bruce Felt-maker there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Broun Watch-maker there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Bethune Merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Bruce merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Blackwood Daughter to Mr. Rob. Blackwood merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Brisbane Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Francis Brodie merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Baillie Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Cap. John Brodie in my L. <hi>Murray</hi> 's Regim. 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Bowar merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Balnavis Jate Baillie there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Marion Borthwick Relict of James Cun<g ref="char:EOLhyphen"/>ningham Cowper in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Biggar Brewer in <hi>Gairns-hall</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Broun Daughter to <hi>Blackburn</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Brotherſtons Harniſ-maker in <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Boyd one of the Regents of <hi>Glaſ<g ref="char:EOLhyphen"/>gow</hi> Colledge 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Brown Miniſter there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Peter Barton in <hi>Barronhill</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the Baxters of the <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Blackrie merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Borthwick Gold-ſmith in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Bethun Son to David Bethun of <hi>Balfour</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>C.</label>
+                  <list>
+                     <item>SIr Robert Chieſly Lord Provoſt of <hi>Edinburgh</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>John Corſe Merchant in <hi>Glaſgow</hi> 1500 <hi>lib.</hi>
+                     </item>
+                     <item>John Lord CARMICHAEL 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Cockburn of <hi>Ormiſtoun</hi> Lord Ju<g ref="char:EOLhyphen"/>ſtice-Clerk 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir George Campbell of <hi>Ceſnok</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Cuningham of <hi>Cuningham<g ref="char:EOLhyphen"/>head</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Cochran of <hi>Kilmaronnock</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Daniel Campbell merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Daniel Carmichael of <hi>Malſly</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Crauford of <hi>Fergus-hill</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Charters Merchant in Edinburgh 1000 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> 69035</item>
+                     <pb facs="tcp:109331:3"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>George Clark merchant there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Gilbert Campbel Son to Colin Camp<g ref="char:EOLhyphen"/>bel of <hi>Souter-houſes,</hi> and merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mungo Cochran &amp; Partners in <hi>Glaſgow viz.</hi> Patrick Gow and William Stru<g ref="char:EOLhyphen"/>thers equally amongſt them 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mathew Cumming merchant there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Cunningham merchant in <hi>Edinb.</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Caſſie of <hi>Kirk-houſe</hi> 800</item>
+                     <item>Mr. James. Campbel brother to E. <hi>Argyle</hi> 700 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the Chirurgions in <hi>Edinburgh</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Callender of <hi>Craigforth</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>David Lord CARDROS 500 <hi>lib.</hi>
+                     </item>
+                     <item>William lord CRANSTOUN 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Colin Campbel of <hi>Aberuchel,</hi> one of the Senators of the Colledge of Juſtice 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Carmicheal <hi>Advocat</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Colin Campbel of <hi>Arkindlaſs</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Cauldwell of that <hi>Ilk</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>James Carnagie of <hi>Balnamoon</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Carſtairs of Kilconquher 500 <hi>lib.</hi>
+                     </item>
+                     <item>Duncan Campbel of <hi>Monzie</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Chambers, Belt-make in <hi>Edinb.</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Cowans Hoſpital in <hi>Stirling</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Campbel of <hi>Calder</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Corsbie and James Coulter merchants in <hi>Drumfries</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>David Crawford Keeper of the Signet 400 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Cockburn merchant in <hi>Edib.</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mungo Campbel of <hi>Burnbank</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Craick of <hi>Airbuchland,</hi> and William Craik of <hi>Duchlaw</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Humphray Colquhoun of <hi>Luſs</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Carmichael Son to the Lord CARMICHAEL 300 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Cockburn of Clerkingtoun 300 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Cheap of <hi>Roſſie</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Crauford of <hi>Monorgan</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Crauford of <hi>Muntquhanie</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Cunningham <hi>Writer to the Signet</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>William Charters Sheriff-deput of <hi>Drumfries</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>William Currie merchant in <hi>Achenskew</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Caſtelaw 300 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Craufurd merchant in <hi>Dundee</hi> 230 <hi>lib.</hi>
+                     </item>
+                     <item>Lady Suſan Campbel 200 <hi>lib.</hi>
+                     </item>
+                     <item>Major James Cunningham of <hi>Aickett</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mark Carſe of Cockpen 200 <hi>lib.</hi>
+                     </item>
+                     <item>Colin Campbel of <hi>Lochlan</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Crauford younger of <hi>Craufordland</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Cornwal of <hi>Bonhard</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dr. Alexander Cranſtoun 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Cunningham Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Campbell Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>Ronald Campbell Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Cleland Son to James Cleland mer<g ref="char:EOLhyphen"/>chant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Cleghorn Merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Crauford Merchant in Edinburgh 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Clerk Chirurgion-Apothecary there 200 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 90965</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>Sir Alexander Cuming of <hi>Culter</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Cochran merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Corbett merchant in <hi>Drumfreis</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Cockburn younger merchant in <hi>Had<g ref="char:EOLhyphen"/>dington</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Campbell Fleſher in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Cuthbert of <hi>Caſtlehill</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>William Carmichael Taylor in <hi>Glaſgow</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Calder merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iſobe Cranſton Daughter to Dr. Cranſton 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Cochran Collector at <hi>Renfrew</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Marion Cleghorn Relict of Baillie Thomas Robertſon 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Corbet merchant in <hi>Drumfreis</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Couper Sheriff-Clerk of <hi>Selkirk</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Campbell merchant Son to the deceaſt Sir Hugh Campbell of <hi>Ceſnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Campbell merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mungo Campbell of <hi>Nether-place</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Crockett merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Matthew Campbell of <hi>Waterhaugh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Laurence Craigie of <hi>Kilgraſtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Cunningham merchant in <hi>Irwin</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Cuningham Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Craigie younger of <hi>Dumbarnie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Crauford merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Chalmer merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Coltrane merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mungo Campbell merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Cleghorn merchant in <hi>Dalkeith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Clerk elder merchant in <hi>Greenock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elias Cathcart merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Chryſtie merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Crosbie merchant in <hi>Drumfreis</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Curror in <hi>New-houſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Currie merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Carſe Son to <hi>Cockpen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Carſell of <hi>Lounſdale</hi> in the Pariſh of <hi>Paſley</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Cunningham Enſign in Sir John <hi>Hill</hi> 's Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Cairlile merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Corbett merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Stephen Crauford Copper-Smith there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Peter Corbett Maltman there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Corſs Commiſſary-Clerk there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Crauford merchant in <hi>Newport-Glaſg.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Cochran younger of <hi>Craigmure</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Crombie Sheriff-Clerk of <hi>Roxburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Allan Cathcart in Sir John <hi>Hill</hi> 's Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Cleland merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Cuningham Servitor to Sir Gilbert Eliot Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Cleland <hi>junior</hi> merchant in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Janet Carſe Siſter to <hi>Cockpen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Chryſtiſon Commiſſary of <hi>Stirling</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Crocket merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Cockburn merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Coupar of <hi>Lochblair</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> 96865</item>
+                     <pb facs="tcp:109331:4"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>Alexander Cleghorn merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Lady Lillias Carr Siſter to the Earl of LO<g ref="char:EOLhyphen"/>THIAN 100 <hi>lib.</hi>
+                     </item>
+                     <item>Jean Cameron Daughter to Donald Cameron 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Crauford Brother to <hi>Kilbirnie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Currie merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Town of COWPAR in <hi>Fife</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Catharin Charters Daughter to Mr. Laurence Charters Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>Dougall Campbell of <hi>Saddel</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Currie merchant in <hi>Linlithgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Cleland merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Currie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Cordiners</hi> of <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Cordiners</hi> of <hi>Glaſg.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Coupers</hi> of <hi>Glaſg.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Chatto elder merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Edward Cleghorn Goldſmith there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Couper Baillie in <hi>Strathmiglo</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Colin Campbell of <hi>Bogholt</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Cordiners</hi> in the <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Cumming merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Campbell of <hi>Kinpont</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Callender <hi>junior</hi> merchant in <hi>Falkirk</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Willam Callender elder merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Chriſtian Cockburn Daughter to Adam Cockburn of <hi>Ormiſton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Crauford in <hi>Abercorn</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Frederick Corſer Merchant in <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Cheap of <hi>Roſſie</hi> younger 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Cranſton in <hi>Baxtounleyes</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Duncan Campbell of <hi>Dunneaves</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Chriſtian Carr Siſter-german to John Carr of <hi>Cavers</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Cruikſhank <hi>junior</hi> merchant in <hi>Aberd.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Chrighton of <hi>Tillyfergus</hi> Cham<g ref="char:EOLhyphen"/>berlain to the Earl of PERTH 100 <hi>lib.</hi>
+                     </item>
+                     <item>Anna Cunningham Daughter to the deceaſt</item>
+                     <item>Mr. James Cunningham in <hi>Alva</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Agnes Campbell Relict of the deceaſt Andrew Anderſon his Majeſties Printer 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Patrick Campbell Brother to <hi>Monzie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Cuthbert Brother to <hi>Caſtlehill</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Carnagie of <hi>Craigie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Crauford Collector at <hi>Inverneſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Cuming of <hi>Kelugns</hi> merchant in <hi>In<g ref="char:EOLhyphen"/>verneſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Carruthers of <hi>Whytcroft.</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>D.</label>
+                  <list>
+                     <item>JOhn Drummond of <hi>Newton</hi> 2325 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Dunlop Principal of the Colledge of <hi>Glaſgow</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>James Lord DRUMMOND 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Suſan Counteſs of DUNDONALD 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Robert Dickſon of <hi>Sornbegg</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Duncan of <hi>Lundie</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>George Dundaſs merchant in <hi>Leith</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Duncan merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Dalrymple Doctor of Median 700 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 111890</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>David Drummond of <hi>Cultmalindie</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Drummond of <hi>Culquhalzie</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Dundaſs Doctor of Medicin 600 <hi>lib.</hi>
+                     </item>
+                     <item>James Marquis of DOUGLAS 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Dunlop of that <hi>Ilk</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Hugh Dalrymple Advocat 500 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF DRUMFREIS 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Drummond Brother to <hi>Logie-Almond</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Drummond of <hi>Megginſh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Archibald Douglas Brother to Sir Wil<g ref="char:EOLhyphen"/>liam Douglas of <hi>Cavers</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Drummond of <hi>Logie-Almond</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Charles Douglas Son to Sir William Douglas Colonel 500 <hi>lib.</hi>
+                     </item>
+                     <item>James Dunlop Collector at <hi>Borrowſtounneſs</hi> and merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Diſhingtoun Merchant in <hi>Leith</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Duncan merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Dinwiddie merchant in <hi>Glaſgow</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Dunbar of Mochrum 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mary Douglas Lady <hi>Hilton</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Don of <hi>Newton</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Dalrymple of <hi>Killoch</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Dalrymple Advocat 400 <hi>lib.</hi>
+                     </item>
+                     <item>Adolphus Durham merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Divvie merchant there 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Denham of <hi>Weſtſheids</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Dickſon Doctor of medicin 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Dickſon Secretary to the <hi>Maraquis</hi> of TWEEDDALE 300 <hi>lib.</hi>
+                     </item>
+                     <item>George Danizell Wright in <hi>Glaſgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Dalrymple Writer in <hi>Kilmarnock</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Duff of <hi>Drummure</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>William Duff of <hi>Diple</hi> 260</item>
+                     <item>Henrieta Dalyell Lady <hi>Glennae</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Captain James Drummond of <hi>Comrie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Douglas Keeper of the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Drummond Brother to <hi>Cultimalindie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Douglas Guiddon and Major to <hi>His Majeſties Troup of Guards</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Chriſtian Dundas Daughter to <hi>Kincavil</hi> Advocat 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Douglas <hi>ſenior</hi> Soap-boyler in <hi>Leith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Laurence Don Taylor in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Duncan late Baillie in <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Douglas merchant in <hi>Dalkeith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Agnes Dalyell Daughter to the deceaſt Sir Robert Dalyell of <hi>Glennae</hi> Baronet 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Dunbar of <hi>Dalcroſs</hi> late Baillie of <hi>In<g ref="char:EOLhyphen"/>verneſs</hi> 180</item>
+                     <item>John Dickſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Abraham Davidſon merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Dunbar merchantin <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Nicolas De-Champs Paper-maker in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Douglas of <hi>Strathenrie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Dunlop Chirurgion in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Darling Doctor of the Gram<g ref="char:EOLhyphen"/>mar-School of <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Denningſtoun merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 128 230 <hi>lib.</hi>
+                     </item>
+                     <pb facs="tcp:109331:4"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi> from Page</hi> 6. — 128 230 <hi>lib.</hi>
+                     </item>
+                     <item>Laurence Dinwiddie merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Marion Davidſon Relict of Mr. John Glen Miniſter in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Suſanna Douglaſs Relict of Ninian Ander<g ref="char:EOLhyphen"/>ſon merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Donaldſon elder malt-man there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Dykes Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Dallas Son to St. <hi>Martins</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Dunbar merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Dykes Cordiner in <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Drummond merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Dick Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Douglas <hi>junior</hi> Soap-boyler in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Dundas Son to <hi>Breſtmiln</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Duncan merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Dunbar Tailor in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Richard Dickſon merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Dowie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Duncan merchant in <hi>Inverneſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Dunbar Son to the Laird of <hi>Durn</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Douglas Miniſter at <hi>Stow.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF DUNBAR 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Durie Skipper in <hi>Kirkaldie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Dallas Writer Burgeſs of <hi>Fortroſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Douglas merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Lodovick Drummond Chamberlain to my Lord DRUMMOND 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>E.</label>
+                  <list>
+                     <item>THe GOOD-TOWN of EDIN<g ref="char:EOLhyphen"/>BURGH 300 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant Colonel John Erskin, Son to David Lord Cardroſs 1200</item>
+                     <item>Mr. James Elphingſtoun one of the Com<g ref="char:EOLhyphen"/>miſſaries of <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Gideon Eliot Chirurgion there 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Eliot of <hi>Borthwick-brae</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Eliot of <hi>Midle-miln</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Eccles Dr. of Medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Edgar Chirurgion in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Edward Eizat Dr. of Medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Erskine brother-german to the Laird of <hi>Pittodrie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Edingtoun Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ewing Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Edgar of Keithock 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Eliot Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Eliot of <hi>Erckletoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Gilbert Eliot of <hi>Stonedge</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>F.</label>
+                  <list>
+                     <item>ANdrew Fletcher of <hi>Saltoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Samuel Forbes of <hi>Foverain</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Forbes of <hi>Tulquhon</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Fleeming of <hi>Rathobyres</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Forbes brother to <hi>Foverain</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Farmer merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Charles Forbes in Sir <hi>John Hill's Regiment.</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>George Fullertoun of <hi>Dreghorn</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 142930</item>
+                     <item>
+                        <hi>Tranſported from</hi> F. — 142930</item>
+                     <item>Mr. John Frank <hi>Advocat</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr John Fairholm <hi>Advocat</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Arthur Forbes of <hi>Eicht</hi> younger 200 <hi>lib.</hi>
+                     </item>
+                     <item>Duncan Forbes of <hi>Colloden</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Forbes of <hi>Watertoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Colonel James Ferguſon 200 <hi>lib.</hi>
+                     </item>
+                     <item>Major John Forbes 200 <hi>lib.</hi>
+                     </item>
+                     <item>Captain John Forbes of <hi>Forbeſtoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Helen Fleeming 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Fleeming <hi>Advocat</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Forbes <hi>Advocat</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Freer Dr. of <hi>Medicin</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr John Forreſt Miniſter at <hi>Prestoun-haugh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Forbes Gold-ſmith in <hi>Edinb.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Fairholm merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Fyfe merchant in <hi>Aberdeen</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Fairholm Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Barbara Frazer, Relict of George Stirling Chirurgion-Apothecary in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Fletcher Provoſt of <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Fulton merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ferguſon Skipper in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Ferguſon merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Frazer Servitor to Alexander Innes merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Findlay merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Fairlie of <hi>Bruntsfield</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Francis Ferquhard in Sir <hi>John Hill's Regiment</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iſobel Foulis Lady <hi>Drylaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Arthur Forbes Son to <hi>Craigievar</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Frazer <hi>Advocat</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Cicilia Fotheringham Lady <hi>Kilry</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Fairweather merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Fotheringham of <hi>Bandean</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Fenwick Vintner in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Fergus merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ferrier merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Forreſter merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Ferguſon merchant in <hi>Kirkaldie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Finlayſon Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Fullertoun late Commander of the <hi>William and Mary Friggat</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Ferguſon brother german to Mr. Alexander Ferguſon of <hi>Iſle</hi> Advocar 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Fleeming Governour to <hi>Ochter<g ref="char:EOLhyphen"/>tyre</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Flint Miniſter at <hi>Lochſwade</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Fletcher of <hi>Ballanſhoe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Forreſter Miniſter at <hi>Lonforgen</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>G.</label>
+                  <list>
+                     <item>THe TOWN of GLASGOW 3000 <hi>lib.</hi>
+                     </item>
+                     <item>John Lord GLENORCHY 2000 <hi>lib.</hi>
+                     </item>
+                     <item>John Graham younger of <hi>Dougalſtoun</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Gordon of <hi>Dalpholly</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mungo Graeme of <hi>Gorthy</hi> 700 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Graeme of <hi>Balgowan</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Gibſon of <hi>Cramont</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>The Guildrie of <hi>Aberdeen</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 159730</item>
+                     <pb facs="tcp:109331:5"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ranſported from Page 7. — 159730 <hi>lib.</hi>
+                     </item>
+                     <item>John Geills merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>James Gibſon merchant in <hi>Glaſgow</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Robert Gordon of <hi>Gordonſtoun</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Gibſon of <hi>Pentland</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Gibſon one of the Clerks of the <hi>Seſſion</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>James Graham of <hi>Orchill</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Gairdine of <hi>Greenhill</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>The Guildrie of <hi>Linlithgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Gordon <hi>ſenior</hi> merchant m <hi>Aberdeen</hi> 250</item>
+                     <item>Mr David Graeme of <hi>Kilor</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Guildrie of <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Guildrie of <hi>Stirling</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Greive Apothecary in <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Gregory Profeſſor of the Mathe<g ref="char:EOLhyphen"/>maticks in the Colledge of <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Graham merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Gregory Student of <hi>Medicin</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Margaret Graham Lady <hi>Kinloch</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Gleſſel merchant in <hi>Glaſgow</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>John Graham Son to Jobn Graham Clerk to the <hi>Chancellary</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Zacharias Gemill of <hi>Bogſide</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Gordon Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Francis Grant of <hi>Colin</hi> Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain James Gibſon in Colonel <hi>Macgill</hi> 's Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain John Gordon in my Lo. STRATH<g ref="char:EOLhyphen"/>NAVERS <hi>Regiment</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Graham at the Miln of <hi>Gask</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Graham of <hi>Aberuthven</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Gordon Son to Mr. Alexander Gordon Miniſter at <hi>Inverarey</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Gilmor Taylor in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Gilchriſt merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Gemill Hammer-man in <hi>Gorbels</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Donald Govan merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Finlay Gray merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Gordon Skipper in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Gardyne younger of <hi>Latoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Guthrie merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Gray merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Chriſtian Grierſon Daughter to the deceaſt <hi>John Greirſon</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Samuel Gray Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Glaſs Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Archibald Gladſtons in <hi>North-houſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Gordon or <hi>Coliston</hi> Dr. of Medecin 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Graham of <hi>Ochterarder</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Graeme of <hi>Jordanſtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Gardiner merchant in <hi>Perth.</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>H.</label>
+                  <list>
+                     <item>HEr Grace Ann Dutches of HAMIL<g ref="char:EOLhyphen"/>TON 3000 <hi>lib.</hi>
+                     </item>
+                     <item>Lord Baſil HAMILTON 3000 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Hope of <hi>Hopetoun</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Earl of HADINGTON 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir David Home of <hi>Croſrig</hi> one of the Senators of the Colledge of Juſtice 1000 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 177430</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 177430</item>
+                     <item>Lady Margaret Hope of <hi>Hopetoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Hay of <hi>Balhouſie</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Home of <hi>Blackadder</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Hope of <hi>Kerfs</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Houſtoun of that <hi>Ilk</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Hay of <hi>Drumeiler</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Hall of <hi>Dunglas</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Haldan of <hi>Gleneagles</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>James Houſtoun Brother-german to <hi>Hou<g ref="char:EOLhyphen"/>stoun</hi> of that <hi>Ilk</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Houſtoun merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Loud David HAY 500, <hi>lib.</hi>
+                     </item>
+                     <item>Sir Archbald Hope of <hi>Rankerllor</hi> one of the Senators of the Colledge of Juſtice 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir George Hamilton of <hi>Barntoun</hi> Baronet 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Hope of <hi>Kirkliſton</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Hope of <hi>Craighall</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Charles Halkett of <hi>Pitfirren</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant-Colonel Scipio Hill 500 <hi>lib.</hi>
+                     </item>
+                     <item>David Hepburn of <hi>Humbie</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>George Home of <hi>Kimmergham</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>George Home of <hi>Whitefield</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>George Home merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Lord Alexander Hay Son to the <hi>Marquis of</hi> TWEEDDALE 400 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF HADDINGTON 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Hamilton of <hi>Halcraig</hi> one of the Senators of the Colledge of Juſtice 400 <hi>lib.</hi>
+                     </item>
+                     <item>James Holburn of <hi>Menſtrie</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Halyburton merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>William Hutchiſon merchant there 300 <hi>lib.</hi>
+                     </item>
+                     <item>John Hay merchant there 300 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Hunter Apothecary in <hi>Kilmarnock</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Home MASTER OF POLWART 300 <hi>lib.</hi>
+                     </item>
+                     <item>Chriſtian Counteſs Dowager of <hi>HAD<g ref="char:EOLhyphen"/>DINGTON</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Charles Hamilton Son to the late Earl of <hi>HADDINGTON</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Home Son to <hi>POLWART</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Matthew Hareſtains of <hi>Craigs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Hay of <hi>Alderſtoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Hall Son to the deceaſt Sir John Hall of <hi>Dunglaſs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Hoppringle of that <hi>Ilk</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Bethia Harper Lady <hi>Cambuſnetham</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Hepburn of <hi>Beanſton</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Hamilton Lady <hi>Bengour</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Hamilton Advocat 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Home Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Hammer-men</hi> of <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Hunter merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>David Haldan Brother to <hi>Gleneagles</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Hamilton miniſter at <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Gilbert Hall Leiutenant of the Guards of <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Hay Servitor to the <hi>Marquis of TWEEDDALE</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Hepburn of <hi>Whitebrugh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Heriot <hi>alias</hi> Craig of <hi>Ramornie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 200130</item>
+                     <pb facs="tcp:109331:5"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 200130 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Henderſon of <hi>Blewlands</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Heron of <hi>Konochtie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Home third Son to POLVVRATH 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Hamilton Miniſter of the Goſpel at <hi>Edinburgh</hi> for himſelf and after his de<g ref="char:EOLhyphen"/>ceaſe, to the children of this firſt marriage 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Haddin Weaver in <hi>Glaſgow</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>John Hamilton Writer in <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Henderſon mal<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>n in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Harper in <hi>Brierie-hill</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Hunter Farmer in <hi>Straiton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Hunter Farmer in <hi>Har<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orndane</hi>
+                     </item>
+                     <item>James Hutchiſon merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Richard Houiſon Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Hamilton merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Hepburn merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Hay merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Heriot merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mathew Hapkin merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Hay merchant in <hi>Frazerburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Hunter merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Ann Hamilton daughter to <hi>Preſtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Home writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Katharin Hall daughter to the deceaſt Sir John Hall of <hi>Dunglaſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Haliburton merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Halket Doctor of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Herbertſon merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Haliburton brother to <hi>Newmains</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Haliburton merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Janet Home Lady <hi>Eccles</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Herdman maltman in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Hutton merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Hog writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Daniel Hamilton writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Hay Chirurgion-Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Hutton elder in <hi>Roſe,</hi> in <hi>Perth-ſhire</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Hunter of <hi>Baldavy</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Iean Hay Spouſe to Captain Lothian 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Haliburton Doctor of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Hamilton Chirurgion-Apothecary in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Hepburn daughter to the deceaſt George Hepburn merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain William Henderſon in Colonel <hi>Macgill</hi> 's Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Hamilton Chamberlain to the Earl of CASSELLS 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Herron of <hi>Bergally</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Hammer-men</hi> and <hi>Belt-makers</hi> in the <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the Hammer-men of <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Iames Henryſon of <hi>Pitadro</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Haliburtoun <hi>junior</hi> of <hi>Moore-houſlaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Hamilton <hi>junior</hi> merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>I.</label>
+                  <list>
+                     <item>WIlliam Lord JEDBURGH 1500 <hi>lib.</hi>
+                     </item>
+                     <item>Jeſper Johnſtoun of <hi>Wariſtoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 207280</item>
+                     <item>
+                        <hi>Tranſported from</hi> I. — 207280</item>
+                     <item>Patrick Johnſtoun merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Jardin of <hi>Applegirth</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Johnſtoun and John Reid merchants in <hi>Drumfreis</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Innes merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Johnſtoun of <hi>Elſhiſhiels</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Johnſtoun late Provoſt of <hi>Drumfreis</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Jackſon merchant in <hi>Edinburgh</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>John Jameſon of <hi>Balmore</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Johnſtoun in <hi>Barngleiſh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Johnſtoun merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Irving Son to John Irving of <hi>Drum<g ref="char:EOLhyphen"/>colton</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Innes Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Irving Son to John Irving preſent Provoſt of <hi>Drumfreis</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Inglis merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Juſtice Writer there 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Johnſtoun merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Johnſtoun merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>Rachel Johnſtoun Relict of Mr. Robert Baillie of <hi>Jerviſtwood</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Innes of <hi>Cockstoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Irving merchant in <hi>Drumfreis</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF INVERNESS 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Inglis Writer to the Signet 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Jameſon Glaſier in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Simeon Jack Skipper in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Innes merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Johnſtoun merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Iohnſtoun merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Iohnſtoun Poſt-maſter of <hi>Hadington</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Inglis Gold-ſmith in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Margaret Iohnſtoun Relict of Sir Iohn Weems of <hi>Bogie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Helen Iohnſtoun Lady <hi>Graden</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Iaffray Ship-maſter in <hi>Kirkcaldie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF IRVING 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iean Iameſon Daughter to Mr. Edward Iameſon miniſter 100 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF INNERKEITHING. 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>K.</label>
+                  <list>
+                     <item>SIr Thomas Kennedy of <hi>Kirkhill</hi> 800 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Lord KINNAIRD 700 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Earl of KINTORE 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mark Ker of <hi>Houndwood</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Kinkaid Son to Thomas Kinkaid of <hi>Auchinreogh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Kennedy Apothecary in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Kendall Skipper in <hi>Leith</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Ker of <hi>Grange</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>George Kinnaird Brother to the L. <hi>Kinnaird</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Keith of <hi>Feddret</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Earl of KELLIE 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Karr younger of <hi>Kippilaw</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Kendall merchant in <hi>Leith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Kid merchant in <hi>Dundie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Kennedy of <hi>Auchtifardle</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Kelſo Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 220280</item>
+                     <pb facs="tcp:109331:6"/>
+                     <item>
+                        <hi>Tranſported from Page</hi> 9. — 220280 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Ker Brother to the Earl of ROXBURGH 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Ker younger in <hi>Chatto</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Ker brother-german to ROXBURGH 200 <hi>lib.</hi>
+                     </item>
+                     <item>Jean Kinkaid Relict of George Thomſon of <hi>Maines</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Edward Ker merchant in <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Kyle merchant in <hi>Largs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Kennedy merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Kennedy of <hi>Kirkmichael</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Kennedy Dr. of <hi>Medicin</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Kirkwood Servitor to the Lord MURRAY 100 <hi>lib.</hi>
+                     </item>
+                     <item>Aliſon Ker Relict of John Ker merchant in <hi>Kelſo</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Kinloch Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Ker Gold-ſmith there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Knox Chirurgion to the Caſtle of <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Kinloch late Baillie in <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Kelly preſent Baillie in <hi>Dunbar</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Keith Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Knox Portioner in <hi>Falkirk</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Kid of <hi>Craigie</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>L.</label>
+                  <list>
+                     <item>DAvid Earl of LEVEN 2000 <hi>lib.</hi>
+                     </item>
+                     <item>George Lockhart of <hi>Carnwath</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Livingſtoun of <hi>Kilſyth</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>George Lockhart merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Earl of LAUDERDALE 500 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Earl of LOTHIAN 500 <hi>lib.</hi>
+                     </item>
+                     <item>James Lundie of that Ilk 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Lamb merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Lauder of <hi>Fountain-hall</hi> one of the Senators of the College of Juſtice 400 <hi>lib.</hi>
+                     </item>
+                     <item>George Lind merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>George Livingtoun Taylor there 400 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Leſly of <hi>Balquhan</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Leſly merchant in <hi>Bamff</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>David Lumſden Son to <hi>Innergellie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Leckie younger of <hi>Newlands</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Lawrie Tutor of <hi>Blackwood</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Law Gold-ſmith in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>David Ladley merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Luke Gold-ſmith there 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Town of <hi>Linlithgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Silveſter Lyon Miniſter of <hi>Kirrenmure</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Loggie Taylor in <hi>Glaſgow</hi> 125 <hi>lib.</hi>
+                     </item>
+                     <item>John Lanrick Writer in <hi>Drumfries</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Lawrie younger of <hi>Maxweltoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Logan merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr Patrick Liſton miniſter in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Lyell of <hi>Garden</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Loch of <hi>Draylie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Lockhart of <hi>Kirktoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Ann Livingſtoun Siſter to <hi>Saltcoats</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Libertoun merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Hugh Lind merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Leitch Burgeſs of <hi>Stranrawer</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 234105</item>
+                     <item>
+                        <hi>Tranſported from</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 234105 <hi>lib.</hi>
+                     </item>
+                     <item>James Law elder Skipper in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Law <hi>junior</hi> Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Leckie of <hi>Mye</hi> merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Lees merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrey Lees merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Logan malt-man in <hi>Gorballs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Learmond merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Lindſay merchant in <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Lothian <hi>junior</hi> merchant in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Livingſtoun Wright there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Laing merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Livingſtoun Glover there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Michael Lumſden <hi>Advocat</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Lawſon <hi>junior</hi> merchant in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Jean Lockhart Relict of James Graham Vintner in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Lyon Sheriff-Clerk of <hi>Forfar</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Lundy younger of <hi>Bedaſter</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Law one of the Regents of the Colledge of <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>M.</label>
+                  <list>
+                     <item>WIlliam Meinzies merchant in <hi>Edinb.</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>The <hi>Merchant-Company</hi> of <hi>Edinb.</hi> 1200</item>
+                     <item>Iames <hi>Marquis of MONTROSE</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Earl MARISHALL 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Francis Montgomery of <hi>Giffen</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>The <hi>Merchant-houſe</hi> of <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Iames Mackenzie Son to the Viſcount of TARBAT 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Iohn Maxwell of <hi>Pollock</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Thomas Murray of <hi>Glendoick</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Patrick Murray of <hi>Autchtertyre</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Archibald Mure of <hi>Thorntoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Moriſon of <hi>Preſton-grange</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Macklurg late Dean of Guild of <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Montgomery merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Murray of <hi>Deuchar</hi> 800 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Murray of <hi>Livingſtoun</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>Kenneth Mackenzie of <hi>Cromarty</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Iames Murray of <hi>Philiphaugh</hi> one of the Senators of the Colleage of Iuſtice 500 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Myrton merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Archibald Murray of <hi>Blackbarrony</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Murray of <hi>Touchadam</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Samuel Mackclellan merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Marjoribanks merchant there 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Mure Brother to <hi>Stonywood</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Iohn Meinzies Advocat 400 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of <hi>Maries-Chappel</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Murray <hi>junior</hi> merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>James Maxwell of <hi>Marksworth</hi> merchant in <hi>Glaſgow</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>John Maxwell of <hi>Midlebie</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Hugh Mackay younger of <hi>Borley</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Maitland Brother to the Earl of LAUDERDALE 250 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Iames Martin late Regent in <hi>Saint-Andrews</hi> 250 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 259205</item>
+                     <pb facs="tcp:109331:6"/>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <hi>Page</hi> 10. — 259205 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Monro of <hi>Bearcrofts</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mary Murray Lady <hi>Enterkin</hi> elder 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Iean Mercer Lady <hi>Aldie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Mackfarlan of that <hi>Ilk</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Merchiſtoun miniſter 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Charles Maitland Doctor of medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Marſhall Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>David Mikeſon merchant in <hi>Kirkcaldie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Laurence Mercer of <hi>Melgins</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. George Murray Doctor of Medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Mure <hi>younger</hi> merchant in <hi>Kil<g ref="char:EOLhyphen"/>marnock</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Montgomery Clerk to the <hi>Juſtice-Count</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Daniel Mackay Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Monteith Chirurgion there 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Murehead Chirurgion there 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Monteith of <hi>Auldcathie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Miln of <hi>Balfarg</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Meinzies of <hi>Shian</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Maxwell of <hi>Barncleugh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Maxwell of <hi>Garnſalloch</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Mackfarlan Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>David Mitchell Doctor of medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Martin of <hi>Burnbray</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Marſhall merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Mackrae Deacon of the Baxters there 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Murray merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Mathie Skipper in <hi>Preſtonpans</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Miln of <hi>Carriden</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Montgomery <hi>younger</hi> merchant in <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Capt. William Maxwell in Col. <hi>Maitland</hi>'s Regiment 200 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Marjoribanks daughter to Mr. An<g ref="char:EOLhyphen"/>drew Marjoribanks 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Mitchell merchant in <hi>Aberdeen</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Murray Chirurgion in <hi>Perth</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Miln of <hi>Miln-field</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Moſman Book-ſeller in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Malt-men</hi> of <hi>Glaſgow</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Murray of <hi>Arbany</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Mackgie of <hi>Balmagie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Mackdowal <hi>younger</hi> of <hi>Logan</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Gilbert Meinzeis of <hi>Pitfodle</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Murray of <hi>Levelands</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Murray Burges in <hi>Edinburgh</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>David Maxwell merchant in <hi>Dundie</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Mackleane merchant in <hi>Inverneſs</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Murray <hi>ſenior</hi> Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Mitchell Baxter in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Mackcerrell of <hi>Hill-houſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Milligan merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Moris Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Murehead Daughter to James Murehead 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Murehead her Siſter 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Maxwell merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 268505</item>
+                     <item>
+                        <hi>Tranſported from M.</hi> — 268505 <hi>lib.</hi>
+                     </item>
+                     <item>James Mackbryd Town-Clerk there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Peter Murdoch merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Mackgowan Provoſt of <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Maſtertoun merchant in <hi>Linlithgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Monro Clerk of <hi>Cunningham</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Macktaggart <hi>younger</hi> merchant in <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Mure Provoſt of <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Katharin Mackell Daughter to the deceaſt Gilbert Mackell merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Mure merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Malcolm merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Mackcubin <hi>younger</hi> of <hi>Knockdolian</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Maſtertoun merchant in <hi>Linlith<g ref="char:EOLhyphen"/>gow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Miln Servitor to the E. MARISHAL 100 <hi>lib.</hi>
+                     </item>
+                     <item>Samuel Mure merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Millikin merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Meikle Malt-man in <hi>Yard-heads</hi> of <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Mackdowal <hi>younger</hi> of <hi>Crichan</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain James Meinzies in Col. <hi>Hill</hi>'s Re<g ref="char:EOLhyphen"/>giment 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Maxwell Tanner in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Mackcrockatt in the <hi>Moor of Gorbels</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Montgomery merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Maxwell of <hi>William-wood</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Henry Marſhall Chirurgion-Apothecary in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Neill Mackviccar Tanner in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Murray of <hi>Sundhope</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Matthew Moncreif of <hi>Colforgie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Mackclellan Wright in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Maſſie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Miln Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Mercer Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Murray at <hi>Orchard-miln</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Murray merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Muddie one of the preſent Baillies of <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Moriſon merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Mitchel Vintner in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Murray Brother to <hi>Sundhope</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Richard Miller Baillie in <hi>Haddingtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Main merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Mitchel Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Macklean <hi>Maſter of the Revels</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Macklean Baillie of <hi>Inverneſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Mackintoſh Baillie there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Meinzies in <hi>Aberfadie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Mackgie Precenter in <hi>Stirl.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Murray ſometime of <hi>Pitcullen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Murray Son to Patrick Murray of <hi>Keillor</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Maſons</hi> of <hi>Glaſg.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Meinzies of <hi>Miln</hi> of <hi>Kiltney</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Malcolm Writer in <hi>Kirkaldie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Melvill Secretary to the Earl of <hi>Melvill</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Patrick Murray of my Lord MUR<g ref="char:EOLhyphen"/>RAY'S</item>
+                     <item>Regiment of Foot 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 273605</item>
+                     <pb facs="tcp:109331:7"/>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ſported from Page</hi> 11. — 273<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>05 <hi>lib.</hi>
+                     </item>
+                     <item>George Murray in <hi>Dalhouſie-mains</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Mailer in <hi>Balyimon</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Maxwel eldeſt Son to John Maxwel of <hi>Barncleugh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Jean Murray Daughter to <hi>Wood-end</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Gilbert More Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Mackjorrow merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>N.</label>
+                  <list>
+                     <item>WIlliam Nisbet of <hi>Dirletoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>David Earl of NORTHESK 500 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Lady Dowager of NAIRN 500 <hi>lib.</hi>
+                     </item>
+                     <item>Lady Margaret NAPIER 400 <hi>lib.</hi>
+                     </item>
+                     <item>William Napier merchant in <hi>Glaſgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>William Lord NAIRn 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Nicolſon of <hi>Trabroun</hi> Dean of Guild of <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Neilſon merchant in <hi>Inverneſs</hi> 175 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Naſmith Deput-Clerk of <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Niven Smith in <hi>Pollock-ſhaws</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Norvell merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Nairn of <hi>Dichindad</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Nicolſon Son to Mr. Thomas Nicolſon <hi>Advocat</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Nicolſon Lady <hi>Dalry</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Nairn Baillie in <hi>Dalkeith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Nisbet Glaſier in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Neilſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Iſabel Nicolſon Lady <hi>Cock-pen</hi> elder 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Nicolſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Francis Napier Baillie in <hi>Stirling</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>O.</label>
+                  <list>
+                     <item>Sir James Oſwald of <hi>Fingaltoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>James Oliphant of <hi>Williamſtoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Oliphant of <hi>Gask</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Ogilvie of <hi>Balfour</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Oliphant Dr. of medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Ogilvie merchant in <hi>Montroſe</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Laurence Oliphant merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Orrok merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Oliphant Son to William Oliphant merchant
+in <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Olipher merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Ogilvie in <hi>Tods-how-hill</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>P.</label>
+                  <list>
+                     <item>THe Town of PERTH 2000 <hi>lib.</hi>
+                     </item>
+                     <item>James Pringle of <hi>Torwoodlie</hi> 1300 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Porteous of <hi>Halk-ſhaw</hi> 1100</item>
+                     <item>James Earl of PANMURE 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir James Primroſe of <hi>Caringtoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Lord POLWARTH 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Pringle of <hi>Stitchel</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Pollock of that Ilk 500 <hi>lib.</hi>
+                     </item>
+                     <item>David Plenderleith of <hi>Blyth</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Paterſon Chirurgion in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>George Pringle of <hi>Green-know</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Paterſon Wright in <hi>Edinburgh</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Gawen Plummer merchant thee 300 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 291280</item>
+                     <item>
+                        <hi>Tranſported <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> 2912<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Pyper merchant in <hi>Montroſe</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>The <hi>Royal-Colledge of Phyſicians</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Porterfield of that Ilk 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Walter Pringle Avocat 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Archibald Pitcairn Dr. of medicin 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Pringle merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Porteous merchant in <hi>Dalkeith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Pringle Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF PASELY 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Porterfield brother to <hi>Porterfield</hi> of that Ilk 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Paterſon merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Porteous merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Franck Pringle brother to Mr. Walter Pringle Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Pringle brother to <hi>Torſonce</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Beſſie Peady Relict to John Maxwel mer<g ref="char:EOLhyphen"/>chant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Peacock Cordiner there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Penman Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Paterſon Wright there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Pollock Taylor there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Paul malt-man there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Pitcairn of <hi>Dreghorn</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. George Pitcairn one of the Commiſſaries of <hi>Dunkeld</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Marion Preſton daughter to <hi>Walefield</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Preſton merchant in <hi>Dundie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. John Paterſon of <hi>Cragie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Elizabeth Pillans daughter to Mr. James Pillans late Regent of the Col<g ref="char:EOLhyphen"/>ledge of <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Pringle merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Pringle in <hi>Ferny-hirst</hi> in <hi>Ston-Pariſh</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Q.</label>
+                  <list>
+                     <item>HIs Grace James Duke of QUEENS-BERRY 3000 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN OF QUEENS-FERRY 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>R</label>
+                  <list>
+                     <item>HEnry Rollo of <hi>Wood-ſide</hi> 1400 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Counteſs of <hi>ROTHES</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Margaret Counteſs of <hi>ROXB<g ref="char:V">Ʋ</g>RGH</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Lord <hi>ROSS</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>David Lord <hi>R<g ref="char:V">Ʋ</g>THVEN</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>James Row of <hi>Cheſters</hi> and merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Robertſon of <hi>Gladney</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Rodger merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Ramſay Writer to the Signet 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Rutherford of <hi>Wells</hi> 800 <hi>lib.</hi>
+                     </item>
+                     <item>James Rochead of <hi>Enderleith</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Robertſon younger merchant in <hi>Glaſ<g ref="char:EOLhyphen"/>gow</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Riddel younger of that Ilk 400 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant Colonel Robert Reid 400 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Robertſon of <hi>Loch-bank</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>David Ramſay merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>John Robertſon merchant there 300 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 311280</item>
+                     <pb facs="tcp:109331:7"/>
+                     <item>Mrs. Patricia Ruthven Grand-child to the Earl of <hi>BRAMFORD</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Rutherford of <hi>Edgerstoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Riddel of <hi>Muiſlie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Rutherford of <hi>Fairningtoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Roſs of <hi>Innernethie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Duncan Ronald Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Ramſay Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Ramſay Servitor to the <hi>Marquis of</hi> TWEEDDALE 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. George Rome Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Roſs Vintner there 200 <hi>lib.</hi>
+                     </item>
+                     <item>David Robertſon Vintner there 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Rutherford Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Robertſon merchant in <hi>Dundee</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Roſe Son to the deceaſt Robert Roſe once Provoſt in <hi>Inverneſs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Ramſay of <hi>Bamff</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Town of RENFREW 150 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Roſe late Baillie of <hi>Inverneſs</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Robertſon merchant in <hi>Dundee</hi> 125 <hi>lib.</hi>
+                     </item>
+                     <item>David Ramſay elder merchant there 120 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Ragg merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Archibald Rule late Baillie in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Roſs merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Renny merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Ruſſel Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Robertſon Writer in <hi>Dunblain</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Rait Miniſter of <hi>Monikie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Leonard Robertſon of <hi>Straloch</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Rutherford of <hi>Knowſouth</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Jerome Robertſon Periwig-maker in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Robertſon Son to James Robert<g ref="char:EOLhyphen"/>ſon merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Robin merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Riddel of <hi>Frier-ſhaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Rule Profeſſor of the Oriental Languages 100 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant Charles Roſs of Sir John <hi>Hill</hi>'s Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Robertſon younger merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Robertſon Chirurgion in <hi>Edinb.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Robertſon Taylor in <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ritchie elder merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Robertſon Hammer-man there 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Robertſon Belt-maker there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Rutherford of <hi>Fala</hi> merchant in <hi>Jedburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Rutherford Apothecary there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Roſs merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Riddel Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Rattray in <hi>Slogging-hole</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr Gilbert Rule Doctor of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Donald Robertſon Miniſter of the Goſpel 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ritchie merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mary Rymer relict of David Montier merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Reid merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Rutherford Doctor of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 318025</item>
+                     <item>Alexander Reid preſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in <hi>Dundee</hi> 
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>William Reid merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Ramſay Clerk-deput there 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Robertſon one of the Sub-Clerks of the Seſſion 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Ronald Son to John Ronald Chirurgion in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Ronald Son to John Ronald Chirur<g ref="char:EOLhyphen"/>gion there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Ronald Daughter to John Ro<g ref="char:EOLhyphen"/>nald Chirurgion there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Robertſon Provoſt of <hi>Inverneſs</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Robertſon of <hi>Inſhes</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Ruſſel Deacon of the Baxters in <hi>Stir<g ref="char:EOLhyphen"/>ling</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Ritchie merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Robertſon merchant in <hi>Jedburgh.</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>S.</label>
+                  <list>
+                     <item>THe Eaſter Sugarie of <hi>Glaſgow, viz.</hi> James Peadie, Robert Corſe, John Luke, William and John Corſes each of them for 500 &amp; for John &amp; Robert Bogles 250 <hi>lib.</hi> each. <hi>lib.</hi> 3000 <hi>lib.</hi>
+                     </item>
+                     <item>John Stewart of <hi>Gairntilly</hi> 3000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir William Scott younger of <hi>Harden</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Swinton of that Ilk 2000 <hi>lib.</hi>
+                     </item>
+                     <item>George Earl of SUTHERLAND 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Charles Earl of SOUTHESQUE 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Viſcount of STRATHALLAN 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Viſcount of STAIRS 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Francis Scott of <hi>Thirleſtoun</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir John Shaw of <hi>Greenock</hi> Baronet 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Patrick Scott of <hi>Ancrum</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Stevenſon of <hi>Montgreenan</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Spence Writer in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Sprewl <hi>alias</hi> Baſs-John merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Sir George Suttie of <hi>Balgond</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Stevenſon merchant in <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Scrimſour of <hi>Cartmore</hi> 800 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Archibald Stevenſon Dr. of medicin 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Sharp of <hi>Hoddom</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>James Scott of <hi>Gala</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Spence of <hi>Blair</hi> 600 <hi>lib.</hi>
+                     </item>
+                     <item>John Earl of STRATHMORE 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Lord SALTOUN 500 <hi>lib.</hi>
+                     </item>
+                     <item>The TOWN of SELKIRK 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Skein younger of <hi>Hall-yards</hi> in <hi>Fife</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Francis Scott of <hi>Mangertoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Hercules Scott of <hi>Brothertoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Scott of <hi>Comiſtoun</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Charles Straiton 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Smith merchant in <hi>Glaſgow</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Matthew Sinclair Dr. of medicin 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Spence merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Seton of <hi>Pitmedden</hi> Baronet 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Willam Stirling of <hi>Ardoch</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Robert Sinclair of <hi>Stevenſon</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 351125</item>
+                     <pb facs="tcp:109331:8"/>
+                     <item>John Sinclair <hi>younger</hi> of <hi>Stevenſon</hi> his Son 400 <hi>lib.</hi>
+                     </item>
+                     <item>James Steill elder merchant in <hi>Edinburgh</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Alexander Swinton of <hi>Merſington</hi> one of the Senators of the Colledge of Juſtice 400 <hi>lib.</hi>
+                     </item>
+                     <item>William Scott of <hi>Raeburn</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Stewart <hi>junior</hi> Advocat 300 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Skinners</hi> of <hi>Edinb.</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>John Scrimſour merchant in <hi>Dundie</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>George Stirling of <hi>Herbert-ſhire</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Scott of <hi>Elingstone</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Scott of <hi>Gorrenberrie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Spittle of <hi>Leuquhar</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Seton of <hi>Lathrisk</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Smith <hi>younger</hi> of <hi>Gibleſtoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Smith of <hi>Brouſterland</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Scott of <hi>Eadinſhead</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Skene Advocat 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Skene of <hi>New grange</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>James Scott of <hi>Sheill-wood</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Sandilands of <hi>Countes-walls</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Gideon Scott of <hi>Falneſh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The TOVVN of STIRLING 200 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Thomas Sharp of <hi>Houſtoun</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Sheriff Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>William Souper merchant in <hi>Aberdeen</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Somervell of <hi>Gladſtones</hi> merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Smith of <hi>White-hill</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Skene Enſign in Lord LINDSAY'S Regiment 200 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Scott Brother to <hi>Raeburn</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>George Sutherland merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Smeiton merchant in <hi>Dundie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Stevenſon Provoſt of <hi>Stirling</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Scougall Limner in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Smith merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Walter Stewart at the Miln of <hi>Pitcairn</hi> in <hi>Perth-ſhire</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Stewart Skipper in <hi>Inverneſs</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>John Stiven Weaver in <hi>Glaſgow</hi> 125 <hi>lib.</hi>
+                     </item>
+                     <item>George Stirling Dr. of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mary Simpſon Relict of Mr. Robert Lundie Miniſter at <hi>Leuchars</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh Sandilands Fewer in <hi>Calder</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Semple merchant in <hi>Hamilton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Shiels in <hi>Pollock-ſhiels</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Smith Wright in <hi>Gorlalls</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Smellum Dr. of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James Stevenſon Chirurgion-Apothe<g ref="char:EOLhyphen"/>cary in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Smith Architect at <hi>Hamilton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Marion Somervell Relict of Andrew Purdie 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Simpſon in <hi>Pendrich</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Mary Stirling Daughter to Mr. John Stirling Miniſter once at <hi>Edinburgh,</hi> and laſt, at <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Stirling Servitor to the Lo. <hi>Whitelaw</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Scott Son to <hi>Thirleſtone</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Simſon Skipper in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Scott malt-man in <hi>Rutherglen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 360850</item>
+                     <item>William Scott merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Smellie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Sloſſe merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Stirling merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Spreull of <hi>Miltoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Scott Taylor in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Stevenſon Wright there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Stirling Brother to <hi>Glorat</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Smith Apothecary in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Spittells Hoſpital in <hi>Stirling</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Stewart of <hi>Dalguiſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Cap. Ja. Stewart in Sir <hi>Jo. Hill</hi>'s Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Selkrig Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Smellie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Stewart Writer in <hi>Edinburgh</hi> in Clerk-Gibſons-Chamber 100 <hi>lib.</hi>
+                     </item>
+                     <item>Helen Stewart Relict of Dr. Murray 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Steill younger merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Archibald Stewart Chirurgion, Son to William Stewart of <hi>Balleid</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Stewart Dr. of medicin in <hi>Perth</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Scott Relict of Iames Wauchop 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Charles Sinclair Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Scott younger merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Scott elder late Baillie there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Iean Scott Lady <hi>Harden</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mrs. Ann Stewart daughter to <hi>Ketleſtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Stewart Clerk to the Cuſtom-houſe in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Elizabeth Syme relict of Sir Robert Colt 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Seton ſecond Son to <hi>Pitmedden</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Scheill Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Smith merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Stewart Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Smith Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Scott Profeſſor of Philoſophy in the Colledge of <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Sea-mans-Box in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Scott <hi>junior</hi> in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth Stirling Daughter to the deceas'd George Stirling Chirurgion in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Shaw late of <hi>Sornbeg</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Smith merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Francis Scott Brother to the deceas'd Earl of TARRAS 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Stewart of <hi>Caſtle-ſterwart</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Jean Scott Lady <hi>Eilingſton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Scott Servitor to the E. MARISHALL 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Samſon Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Sir Robert Sibbald Dr. of medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Strachan merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Smith <hi>junior</hi> merchant in <hi>Linlithgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Patrick Sandilands of <hi>Cottoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Scott of <hi>Benholm</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Shaw of <hi>Sauchie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Archibald Sinclair Advocat 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Patrick Simſon Miniſter at <hi>Renfrew</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Smith merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Walter Scott younger of <hi>Wool</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Gideon Scottſon to John Scott of <hi>Wool</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 366250</item>
+                  </list>
+                  <pb facs="tcp:109331:8"/>
+               </item>
+               <item>
+                  <label>T.</label>
+                  <list>
+                     <item>PAtrick Thomſon Town-Treaſaurer 1500 <hi>lib.</hi>
+                     </item>
+                     <item>John <hi>Marquis of</hi> TWEEDDALE Lord High-Chancellor 1000 <hi>lib.</hi>
+                     </item>
+                     <item>George <hi>Viſcount of</hi> TARBAT 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Tod merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Katharin Trotter Lady <hi>Craig-Leith</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>The Trades-Houſe of <hi>Glaſgow</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Taylors</hi> of the <hi>Cannongate</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Thomſon Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Trotter VVriter in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Turnbull merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Taylors</hi> in <hi>Glaſg.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>The Trinity-Houſe in <hi>Leith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Dame Elizabeth Trotter Lady <hi>Nicolſon</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Thomas Thomſon of <hi>Cockland</hi> Miniſter at <hi>Forreſs</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Tweeddale in <hi>Mid-Calder</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Tennoch merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Thomſon of <hi>Seven-Acres</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Turnbull Burges of <hi>Linlithgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Teuchler merchant 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Alexander Thomſon Town-Clerk of <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Thomſon Writer in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Thomſon in <hi>Hill of Kilmares</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Threpland merchant at <hi>Perth</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Tennent Gardener in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>VVilliam Thomſon of <hi>Corſ-hill</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James Thomſon Tanner in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Tran Chirurgion there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Taillferr merchant in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Thomſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Helen Trotter Lady <hi>Crumſton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>George Turnbull VVriter in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Thomſon Servitor to Charles Div<g ref="char:EOLhyphen"/>vie merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Tod merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew Tennent Vintner in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Taylors</hi> of <hi>Eaſter-Ports-burgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David Trail Son to Iames Trail Enſign in <hi>Stirling-Caſtle</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iſabel Tyrie Lady <hi>Glaſclune</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Iohn Tran Regent in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>W.</label>
+                  <list>
+                     <item>MArgaret Counteſs of WEEMS 2000 <hi>lib.</hi>
+                     </item>
+                     <item>George Warrander merchant in <hi>Edinburgh</hi> 2000 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant Colonel George Wiſheart 1500 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Watſon merchant in <hi>Edinburgh</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>John Watſon <hi>ſenior</hi> merchant there 1000 <hi>lib.</hi>
+                     </item>
+                     <item>William Wooddrop merchant in <hi>Glaſgow</hi> 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Peter Wedderburn of <hi>Gosford</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Walwood merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Watſon younger merchant there 500 <hi>lib.</hi>
+                     </item>
+                     <item>John Wilkie merchant there 500 <hi>lib.</hi>
+                     </item>
+                     <item>William Wightman Skinner there 500 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 386750</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>Iames Walkingſhaw merchant in <hi>Glaſgow</hi> 50<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                     </item>
+                     <item>William Walwood ſon to the deceaſt Henry Walwood merchant in <hi>Edinburgh</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Wightman Skinner there 400 <hi>lib.</hi>
+                     </item>
+                     <item>Iames Watſon of <hi>Sauchtoun</hi> 400 <hi>lib.</hi>
+                     </item>
+                     <item>Adam Wat of <hi>Roſe-hill</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Iohn Wallace ſon to Iohn Wallace merchant in <hi>Glaſgow</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Williamſon of <hi>Cardrona</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Wedderburn Brother to <hi>Gosford</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Wright merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Wylie Miniſter at <hi>Hamilton</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert White of <hi>Conland</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert Weems of <hi>Grangemuir</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. David Williamſon Miniſter at the <hi>Weſt-Kirk</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Iames and Robert Watſons merchants in <hi>Stirling</hi> ſons to Duncan Watſon late Baillie in <hi>Stirling</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Waddel Writer in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas White elder merchant in <hi>Edinb.</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Wordie merchant in <hi>Stirling</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William Wiſheart Miniſter of <hi>South-Leith</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Wood merchant in <hi>Edinburgh</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Robert White of <hi>Bennochie</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Watſon Writer to the Signet 200 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. William VVatſon of <hi>Tour</hi> 150 <hi>lib.</hi>
+                     </item>
+                     <item>Helen Watſon Relict of Gilbert Mackell Merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert VVright Merchant in <hi>Kilmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The Incorporation of the <hi>Wrights</hi> in the <hi>Cannongate</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>David VValker Tanner in <hi>Leſly</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Wardrop Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſter in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Wooddrop Portioner of <hi>Dalmarnock</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Wilſon Book-binder in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Henry Wyllie Merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William Wilſon one of the Under-Clerks of Seſſion 100 <hi>lib.</hi>
+                     </item>
+                     <item>Lieutenant John Walkingſhaw in Sir <hi>John Hill</hi>'s Regiment 100 <hi>lib.</hi>
+                     </item>
+                     <item>James VVatſon Malt-man in <hi>Leith</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Duncan VVilliamſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>The <hi>Wrights</hi> in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Andrew VVardrop late Baillie in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert VVatſon merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Peter VVedderburn merchant there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Robert VVardroper merchant in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Watſon Doctor of Medicin 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Williamſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Weir Chirurgion there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander Wilkieſon Writer there 100 <hi>lib.</hi>
+                     </item>
+                     <item>John VVhite merchant in <hi>Kirkaldie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Daniel VVeir brother to <hi>Stonebyers</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Hugh VVarden merchant in <hi>Glaſgow</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James VVilſon merchant in <hi>Hamilton</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. James VVhitehead in <hi>Lymkilns</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>William VVilkie in <hi>Echline</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>
+                        <hi>Carry forward</hi> — 395200</item>
+                     <pb facs="tcp:109331:9"/>
+                     <item>Alexander VValker merchant in <hi>Aberdeen</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas VVarrander Painter in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Alexander VVatſon ſon to the deceaſt Adam VVatſon merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Patrick VVarner Miniſter at <hi>Irving</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Elizabeth VVhite Lady <hi>South-houſe</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>James VVallace merchant in <hi>Edinburgh</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>U.</label>
+                  <list>
+                     <item>ALexander Udney ſon to the Laird of Udney 400 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. Andrew Urie Miniſter at <hi>Morav<g ref="char:EOLhyphen"/>inſide</hi> 200 <hi>lib.</hi>
+                     </item>
+                     <item>Robert Urie in <hi>Miln-brae</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>V.</label>
+                  <list>
+                     <item>RObert Veatch merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>John Vans merchant in <hi>Air</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>396700</item>
+                  </list>
+               </item>
+               <item>
+                  <label>Y.</label>
+                  <list>
+                     <item>JOhn Lord HAY of YESTER 1000 <hi>lib.</hi>
+                     </item>
+                     <item>Captain Thomas Young 500 <hi>lib.</hi>
+                     </item>
+                     <item>Thomas Young late Baillie of <hi>Edinburgh</hi> 300 <hi>lib.</hi>
+                     </item>
+                     <item>Joſeph Young merchant there 300 <hi>lib.</hi>
+                     </item>
+                     <item>James Young merchant there 200 <hi>lib.</hi>
+                     </item>
+                     <item>John Young of <hi>Banchrie</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Iſabel Yeaman relict of Robert Robertſon merchant in <hi>Haddingtoun</hi> 100 <hi>lib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <label>Z.</label>
+                  <list>
+                     <item>RObert Zuill merchant in <hi>Glaſgow</hi> 500 <hi>lib.</hi>
+                     </item>
+                     <item>Mr. VVilliam Zeaman Chirurgion in <hi>Dundee</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>Patrick Zeaman late Baillie there 100 <hi>lib.</hi>
+                     </item>
+                     <item>Rachel Zeaman relict of Mr. George For<g ref="char:EOLhyphen"/>eſter of <hi>Knap.</hi> 100 <hi>lib.</hi>
+                     </item>
+                     <item>400000</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>THe Act of Parliament eſtabliſhing the ſaid Company, is alſo Printed on this Paper and Cha<g ref="char:EOLhyphen"/>racter, with Marginal Abreviations, and ſold at the ſame Place.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
